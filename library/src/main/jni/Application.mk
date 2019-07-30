@@ -1,2 +1,2 @@
-APP_STL:=stlport_static
-APP_ABI := armeabi-v7a x86 mips
+APP_STL := c++_static
+APP_ABI := armeabi-v7a x86 arm64-v8a x86_64
